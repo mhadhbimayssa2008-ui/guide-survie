@@ -66,6 +66,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+  {
+    titre: "Jeffrey Kirkstein",
+    categorie: "Vie pratique",
+    texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
+    auteur: "Mayssa"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
