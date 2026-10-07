@@ -71,6 +71,7 @@ const FICHES = [
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non.",
     auteur: "Mayssa"
+    image: ""
   },
 
 
